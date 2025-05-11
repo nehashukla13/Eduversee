@@ -1,17 +1,6 @@
 # Project Name
 
-One On One Chat application | Spring boot & WebSocket |
-
-## Overview
-
-#### Here is a demo of the application
-
-![Future application](./app-preview.png)
-
-#### Full Tutorial link
-
-[Watch the Tutorial](https://www.youtube.com/watch?v=7T-HnTE6v64&ab_channel=BoualiAli)
-
+Eduverse | One On One Chat application | Spring boot & WebSocket |
 
 
 ## Table of Contents
