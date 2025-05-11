@@ -29,7 +29,7 @@ Provide step-by-step instructions on how to install and set up your project loca
 
 ```bash
 # Clone the repository
-git clone https://github.com/ali-bouali/one-to-one-chat-spring-boot-web-socket
+git clone https://github.com/nehashukla13/Eduversee.git
 
 # Change into the project directory
 cd your-project
